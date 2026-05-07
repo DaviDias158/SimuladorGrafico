@@ -66,3 +66,7 @@ O simulador atingiu os objetivos propostos, permitindo observar de forma prátic
     *   Insira a sequência de números separados por vírgula no campo indicado.
     *   Defina a quantidade de quadros de memória.
     *   Clique em **"Simular Algoritmos"** para visualizar os resultados no painel inferior.
+
+## Acesso ao Código
+O código-fonte completo, bem como os arquivos de lógica e interface, podem ser acessados através do link abaixo:
+* **GitHub:** [Visualizar Projeto](https://github.com/DaviDias158/SimuladorGrafico)
