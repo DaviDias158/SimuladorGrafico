@@ -1,7 +1,3 @@
-Aqui está uma proposta de **README.md** completa e profissional, estruturada exatamente conforme o modelo solicitado e pronta para ser utilizada no seu repositório do GitHub.
-
----
-
 # Simulador de Algoritmos de Substituição de Páginas
 
 Este projeto é um simulador de gerenciamento de memória virtual que visa comparar a eficiência de diferentes estratégias de substituição de páginas, contabilizando as faltas de página (*page faults*) em diversos cenários.
