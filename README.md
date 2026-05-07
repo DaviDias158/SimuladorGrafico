@@ -1,6 +1,8 @@
 # Simulador de Algoritmos de Substituição de Páginas
 
-Este projeto é um simulador de gerenciamento de memória virtual que visa comparar a eficiência de diferentes estratégias de substituição de páginas, contabilizando as faltas de página (*page faults*) em diversos cenários.
+Autor: Davi Dias Vale - 2410485
+
+Palavras-chave: Memória Virtual. Java Swing. Page Faults. FIFO. LRU.
 
 ---
 
