@@ -8,7 +8,7 @@ Este projeto é um simulador de gerenciamento de memória virtual que visa compa
 
 ---
 
-## 📄 Resumo
+## Resumo
 Este trabalho apresenta o desenvolvimento de um simulador em linguagem Java para avaliar o desempenho dos algoritmos de substituição de páginas: **FIFO**, **LRU**, **Relógio (Segunda Chance)** e **Ótimo**. O sistema recebe uma cadeia de referências e uma quantidade determinada de quadros de memória, processando cada algoritmo de forma independente para comparar o número de faltas de página geradas. O projeto inclui uma interface gráfica (GUI) para facilitar a interação e análise dos resultados.
 
 ## 1. Introdução
@@ -54,7 +54,7 @@ O simulador atingiu os objetivos propostos, permitindo observar de forma prátic
 
 ---
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 1.  **Pré-requisitos:** Ter o Java JDK (versão 8 ou superior) instalado.
 2.  **Clonagem:** Clone este repositório em sua máquina local.
